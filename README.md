@@ -65,7 +65,7 @@ A production-ready NPM package that lets developers integrate LLMs (Gemini, Chat
 Real-world business website under development for a Sri Lankan construction company.
 - Built with React + Tailwind CSS + backend in Node.js + Express
 
-### 🔸 <<a href ="https://github.com/induranga2004/FreshFare">FreshFare Grocery System
+### 🔸 <a href ="https://github.com/induranga2004/FreshFare">FreshFare Grocery System
 MERN-based point-of-sale & customer queue management system.
 - Built in university team project using real-time features via Socket.io
 
