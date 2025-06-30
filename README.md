@@ -46,7 +46,7 @@ const induranga = {
 
 ## 📦 Highlight Project – AI ChatBot NPM Package
 
-### 🔹 <a href = "https://github.com/induranga2004/chatbot-ai-db" >chatbot-ai-db<a>
+### 🔹 <a href = "https://github.com/induranga2004/chatbot-ai-db" >chatbot-ai-db (NPM)<a> | <a href = "https://github.com/induranga2004/chatbot-ai-db" >chatbot-ai-db (repo)<a>
 A production-ready NPM package that lets developers integrate LLMs (Gemini, ChatGPT) with MongoDB and NoSQL databases.
 
 **Features:**
