@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hey there! I'm Induranga Gunasekara
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=123458&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Fullstack+Developer+%7C+AI+Chatbot+Engineer;BSc+(Hons)+IT+-+Data+Science+%40+SLIIT;Building+MERN+Apps+%2B+LLM+Integrations+with+Heart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=12345&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Fullstack+Developer+%7C+AI+Chatbot+Engineer;BSc+(Hons)+IT+-+Data+Science+%40+SLIIT;Building+MERN+Apps+%2B+LLM+Integrations+with+Heart" alt="Typing SVG" />
 </div>
 
 <div align="center">
