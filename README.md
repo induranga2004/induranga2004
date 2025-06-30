@@ -46,7 +46,7 @@ const induranga = {
 
 ## 📦 Highlight Project – AI ChatBot NPM Package
 
-### 🔹 chatbot-ai-db
+### 🔹 <a href = "https://github.com/induranga2004/chatbot-ai-db" >chatbot-ai-db<a>
 A production-ready NPM package that lets developers integrate LLMs (Gemini, ChatGPT) with MongoDB and NoSQL databases.
 
 **Features:**
@@ -61,11 +61,11 @@ A production-ready NPM package that lets developers integrate LLMs (Gemini, Chat
 
 ## 🛠️ Other Projects
 
-### 🔸 Kamal Iron Works
+### 🔸<a href = "https://github.com/induranga2004/kamal-ironworks"> Kamal Iron Works<a> 
 Real-world business website under development for a Sri Lankan construction company.
 - Built with React + Tailwind CSS + backend in Node.js + Express
 
-### 🔸 FreshFare Grocery System
+### 🔸 <<a href ="https://github.com/induranga2004/FreshFare">FreshFare Grocery System
 MERN-based point-of-sale & customer queue management system.
 - Built in university team project using real-time features via Socket.io
 
