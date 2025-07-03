@@ -11,7 +11,9 @@
 
 ---
 
-## 🚀 About Me
+<a href="www.induranga.com"> Click for my portfolio<a>
+---
+## 🚀 About Me 
 
 ```javascript
 const induranga = {
