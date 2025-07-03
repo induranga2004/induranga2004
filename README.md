@@ -11,7 +11,7 @@
 
 ---
 
-<a href="www.induranga.com"> Click for my portfolio<a>
+<a href="[www.induranga.com](https://induranga.com/)"> Click for my portfolio<a>
 ---
 ## 🚀 About Me 
 
